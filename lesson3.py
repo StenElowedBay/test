@@ -1,4 +1,4 @@
-mystring = "blah blah blah"
+mystring = "dfgdfg ghjghj gfhjfghgf"
 
 name = "mr iVAn ivanov"
 
@@ -16,7 +16,7 @@ print (a.rstrip())
 print (a.lstrip())
 print (a.strip())
 
-a = ".... dadya vasya ...."
+a = ".... tetya galya ...."
 a = a.strip(".")    #udalenie to4ek
 a = a.strip()      #udalenie probelov
 print (a.title())
